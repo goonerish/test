@@ -1,0 +1,13 @@
+{
+  "label": {
+    "settings": {
+      "title": "newmod setting"
+    },
+    "action": {
+      "title": "newmod - How to extend the ui ?"
+    },
+    "appsAccordion": {
+      "title": "newmod"
+    }
+  }
+}
